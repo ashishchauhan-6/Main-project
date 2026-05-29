@@ -9,7 +9,7 @@ on:
       - "requirements.txt"
       - "Dockerfile"
       - "docker-compose.yml"
-      - "nginx/"
+      - "nginx/**"
       - ".github/workflows/"
 
 jobs:
