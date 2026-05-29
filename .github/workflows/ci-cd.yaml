@@ -10,7 +10,7 @@ on:
       - "Dockerfile"
       - "docker-compose.yml"
       - "nginx/**"
-      - ".github/workflows/"
+      - ".github/workflows/**"
 
 jobs:
   test:
